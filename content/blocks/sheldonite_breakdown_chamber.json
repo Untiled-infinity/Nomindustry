@@ -1,0 +1,22 @@
+{
+	"type": "GenericCrafter",
+	"name": "Sheldonite Breakdown Chamber",
+	"outputItem": "rare_metal_mixture/3",
+	"size": 3,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 60,
+	"itemCapacity": 20,
+	"consumes": {
+		"power": 7,
+		"items": [
+			"sheldonite/10"
+		]
+	},
+	"requirements": [
+    "thorium/100",
+    "tungsten/50",
+    "oxide/30"
+	],
+	"research": "phase-synthesizer"
+}
