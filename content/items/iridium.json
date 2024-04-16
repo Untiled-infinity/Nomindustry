@@ -2,9 +2,14 @@
   "name": "iridium",
   "cost": "0.5",
   "color": "7fd1f2",
-  "alwaysunlocked": "false",
+  "alwaysUnlocked": "false",
   "radioactivity": "0",
   "explosiveness": "0",
   "flammability": "0",
-  "research": "tungsten"
+  "research": {
+    "parent": "tungsten",
+    "requirements": [
+      "tungsten/200"
+    ]
+  }
 }
