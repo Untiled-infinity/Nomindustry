@@ -7,9 +7,9 @@
   "explosiveness": "0",
   "flammability": "0",
   "research": {
-    "parent": "tungsten",
+    "parent": "rare_metal_mixture",
     "requirements": [
-      "tungsten/200"
+      "rare_metal_mixture/6"
     ]
   }
 }
