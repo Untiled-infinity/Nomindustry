@@ -1,0 +1,15 @@
+{
+  "name": "iridium",
+  "cost": "0.5",
+  "color": "544deb",
+  "alwaysUnlocked": "false",
+  "radioactivity": "0",
+  "explosiveness": "0",
+  "flammability": "0",
+  "research": {
+    "parent": "tungsten",
+    "requirements": [
+      "rare_metal_mixture/1"
+    ]
+  }
+}
