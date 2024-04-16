@@ -1,0 +1,26 @@
+{
+	"type": "GenericCrafter",
+	"name": "Rare Metal Production Complex",
+	"outputItem": ["Iridium/2",
+                 "Osmium/2",
+                 ]
+	"size": 3,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 120,
+	"itemCapacity": 20,
+	"consumes": {
+		"power": 7,
+		"items": [
+			"rare_metal_mixture/5"
+		]
+	},
+	"requirements": [
+		"tungsten/150",
+		"thorium/80"
+    "carbide/20",
+	],
+  "research": {
+    "parent": "sheldonite_breakdown_chamber",
+    "
+}
